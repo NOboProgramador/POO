@@ -10,5 +10,15 @@ package variables;
  * @author MR
  */
 public class HolaMundo {
+public static void main(String args[]) {
+String saludar="saludos amigitos"; //Esta es una variable de tipo String
+
+    System.out.println(saludar);
+    System.out.println(saludar);
+    System.out.println(saludar);
+    
+    String despedirse = "hasta luego";
+    System.out.println(despedirse);
+    }
     
 }
