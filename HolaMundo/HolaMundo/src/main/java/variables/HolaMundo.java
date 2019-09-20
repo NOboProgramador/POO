@@ -19,6 +19,9 @@ String saludar="saludos amigitos"; //Esta es una variable de tipo String
     
     String despedirse = "hasta luego";
     System.out.println(despedirse);
-    }
+    
+    int numero=1;
+    System.out.println(numero);
+}
     
 }
