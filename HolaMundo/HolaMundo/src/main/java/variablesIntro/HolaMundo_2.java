@@ -1,4 +1,4 @@
-package variables;
+package variablesIntro;
 import java.util.Scanner;
 
 public class HolaMundo_2{

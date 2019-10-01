@@ -1,4 +1,4 @@
-package variables.primitivos;
+package Variable;
 import java.util.Scanner;
 
 public class HolaMundo_1 {
